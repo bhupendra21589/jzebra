@@ -1,5 +1,5 @@
 #summary About jZebra
-#labels Featured,Phase-Implementation
+#labels Phase-Implementation
 
 [http://code.google.com/p/jzebra/wiki/Donations https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_US/i/btn/btn_donate_LG.gif]
 
