@@ -1,5 +1,5 @@
 #summary ESC/P Reference for jZebra
-#labels Featured,Phase-Implementation
+#labels Phase-Implementation
 
 = Introduction =
 
