@@ -1,5 +1,5 @@
 #summary PostScript Printing in a nut shell
-#labels Featured,Phase-Support
+#labels Phase-Support
 
 == What is PostScript Printing? ==
 
