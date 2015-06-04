@@ -1,4 +1,3 @@
-#labels Featured
 = Donations are Welcome =
 
 [http://code.google.com/p/jzebra/wiki/FamilyLarge http://jzebra.googlecode.com/files/family_small.png] 
