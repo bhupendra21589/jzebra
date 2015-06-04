@@ -1,5 +1,5 @@
 #summary Installing a raw printer driver on Ubuntu using gnome system-config-printer
-#labels Featured,Phase-Deploy,Phase-Support
+#labels Phase-Deploy,Phase-Support
 
 = Updated tutorial here: http://qzindustries.com/TutorialRawUbuntu =
 
