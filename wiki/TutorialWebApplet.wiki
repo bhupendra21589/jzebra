@@ -1,5 +1,5 @@
 #summary Using qz-print as a Web Applet component
-#labels Featured,Phase-Deploy,Phase-Support
+#labels Phase-Deploy,Phase-Support
 
 *Tip:* Hit <CTRL + F> and search this page for keywords!!
 
