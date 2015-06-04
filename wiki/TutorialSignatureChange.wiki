@@ -1,4 +1,4 @@
-#labels Featured,Phase-Deploy
+#labels Phase-Deploy
 f#summary Change security prompt to verified or change the digital signature publisher name
 
 = <font color="red">Please see updated tutorial here: [https://github.com/qzindustries/qz-print/wiki/Compile-qz-print]</font> =
